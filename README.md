@@ -3,7 +3,7 @@ Awesome Repo with real cool website
 # My Website
 A simple HTML website showcasing our project.
 # All Features
-- Gripping design
+- Responsive design
 - Clean and neat layout
 - Easy to navigate
 # Getting Started
