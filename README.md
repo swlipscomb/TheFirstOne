@@ -4,7 +4,7 @@ Awesome Repo with real cool website
 A simple HTML website showcasing our project.
 # All Features
 - Responsive design
-- Clean and neat layout
+- Clean and modern layout
 - Easy to navigate
 # Getting Started
 1. Clone the repository
